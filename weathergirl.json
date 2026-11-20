@@ -1,7 +1,7 @@
 {
   "name": "Weathergirl",
   "description": "Weathergirl background",
-  "version": "3",
+  "version": "3.001",
   "authors": [
     {
       "name": "Berry",
@@ -458,7 +458,7 @@
     "PRIMARY_DARK_200": "#DBDEE1"
   },
   "background": {
-    "url": "https://cdn.discordapp.com/attachments/1536770377424961608/1572271686080929983/d4260d_1ff4fdb9b4c345f9ba56fb64c375cce4mv2.jpg?ex=6afdc39d&is=6afc721d&hm=fab4968c5b08083fead1daf64271151d72a385ced03c77e3006f7f3938d01f94& Blue/assets/background.png",
+    "url": "https://cdn.discordapp.com/attachments/1536770377424961608/1572271686080929983/d4260d_1ff4fdb9b4c345f9ba56fb64c375cce4mv2.jpg?ex=6b010f5d&is=6affbddd&hm=999a4462cad83e8bc1ae4d428cc0f74d6c1cd31ef5c1829e40551aabb5501828&",
     "alpha": 0.4,
     "size": "cover",
     "position": "center"
